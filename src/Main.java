@@ -13,5 +13,8 @@ public class Main {
         }
         //팀장작업
         System.out.println("나는 팀장!");
+
+        //직원
+        System.out.println("직원");
     }
 }
